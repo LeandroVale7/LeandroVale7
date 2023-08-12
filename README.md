@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, sou o Leandro 👋
 
 <!--
 **LeandroVale7/LeandroVale7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎒 Técnico em informática 
+<div>
+  <a href="https://github.com/LeandroVale7"></a>
+  <img height="180px" src = "https://github-readme-stats.vercel.app/api?username=LeandroVale7&theme=algolia&show_icons=true&include_all_commits=true&count_private=true">
+<img height="130px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroVale7&layout=compact&langs_count=16&theme=algolia&count_private=true">
+  
+  
+</div>
